@@ -1,1 +1,1 @@
-# sequelize-migration-seed
+# orm-sequelize
