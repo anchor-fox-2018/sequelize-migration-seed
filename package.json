@@ -1,0 +1,25 @@
+{
+  "name": "orm-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anchor-fox-2018/orm-sequelize.git"
+  },
+  "author": "SM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anchor-fox-2018/orm-sequelize/issues"
+  },
+  "homepage": "https://github.com/anchor-fox-2018/orm-sequelize#readme",
+  "dependencies": {
+    "nodemon": "^1.18.4",
+    "pg": "^7.4.3",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.38.1"
+  }
+}
